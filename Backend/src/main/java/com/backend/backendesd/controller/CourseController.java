@@ -28,6 +28,7 @@ public class CourseController {
         return adminService.getCourseById(id);
     }
 
+    
     @GetMapping("/admin/getCP/{id}")
     public String fetchCoursePrerequisiteName(@PathVariable int id) {
         return adminService.getPrerequisiteCourse(id);
