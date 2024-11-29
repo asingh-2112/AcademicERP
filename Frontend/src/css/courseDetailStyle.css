@@ -1,0 +1,48 @@
+.bgg {
+    background-image: url("../assets/blackboard-texture-background-image-for-website.png");
+    height: 100vh;
+    color: aliceblue;
+}
+
+#titleLabel {
+    padding-top: 50px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#tb {
+    margin-left: 20vh;
+    margin-right: 20vh;
+    margin-top: 5vh;
+}
+
+.cd {
+    margin-left: 73vh;
+}
+
+.cpd {
+    margin-left: 72vh;
+}
+
+.info {
+    padding: 25px;
+}
+
+.sp {
+    margin-left: 4vh;
+}
+
+#updateBtn {
+    margin-top: 40px;
+    margin-left: 76vh;
+}
+
+#deleteBtn {
+    margin-top: 40px;
+    margin-left: 10vh;
+}
+
+#inp {
+    margin-top: 20px;
+    border-radius: 5px;
+}
